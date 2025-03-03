@@ -28,7 +28,6 @@
 
 ## ⚙️ **서버 인프라 구성**
 - **AWS EC2**: 애플리케이션이 실행되는 서버  
-- **Amazon S3**: 파일 저장소  
 - **Amazon RDS**: 데이터베이스 (MySQL)  
 - **Docker & Docker Compose**: 컨테이너화된 서비스 운영  
 
