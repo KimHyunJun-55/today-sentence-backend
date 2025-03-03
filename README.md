@@ -20,6 +20,21 @@
 </details>
 
 ---
+## 📡 **모니터링 및 로깅**
+| 시스템       | 역할 |
+|------------|-----------------------------------------------|
+| **Prometheus** | 애플리케이션 성능 모니터링 |
+| **Grafana**    | Prometheus 데이터를 시각화 |
+
+<details>
+<summary>Grafana 모니터링(클릭해서 보기)</summary>
+  
+![Image](https://github.com/user-attachments/assets/f6bc42f5-a25d-467f-8e63-6a0f15488c02)
+![Image](https://github.com/user-attachments/assets/e6d3f581-4348-458b-becf-742a35ac4618)
+ 
+</details>
+
+---
 
 ## 🛠️ 기술 스택
 | 분류          | 기술 스택 |
