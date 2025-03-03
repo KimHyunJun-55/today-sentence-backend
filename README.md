@@ -10,6 +10,16 @@
 </details>
 
 ---
+## 🏗️ERD  
+오늘의 명언 백엔드 시스템의 전체적인 데이터베이스 ERD 입니다.  
+<details>
+<summary> ERD 다이어그램 (클릭해서 보기)</summary>
+  
+ ![Image](https://github.com/user-attachments/assets/9ed79b06-508a-4ff6-8e42-1f7180fd8e7c)
+ 
+</details>
+
+---
 
 ## 🛠️ 기술 스택
 | 분류          | 기술 스택 |
