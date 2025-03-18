@@ -5,8 +5,7 @@
 <details>
 <summary>프로젝트 아키텍처(클릭해서 보기)</summary>
   
-![Image](https://github.com/user-attachments/assets/8c780ac6-1ac2-4958-94f9-d2da3b5a342d)
-![아키텍처 다이어그램](https://raw.githubusercontent.com/KimHyunJun-55/today-sentence-backend/dev/images/architecture.png)
+![아키텍처 다이어그램](https://raw.githubusercontent.com/KimHyunJun-55/today-sentence-backend/dev/architecture.png)
 
 
 
